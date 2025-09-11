@@ -24,6 +24,8 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - [ ] Editar este `README.md` y hacer el primer commit.
 - [ ] Subir cambios (`push`) a GitHub.
 
+
+
 ---
 
 ## 🛠️ Tecnologías a usar
