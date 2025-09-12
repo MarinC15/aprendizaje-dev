@@ -29,6 +29,11 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - **Archivos:** `variables.py`, `condicionales.py`, `bucles.py`  
 - **Commit:** `feat: agregar ejercicios básicos de variables, condicionales y bucles`
 
+### 2025-09-12
+- **Acción:** Implementar ejemplos de funciones en Python (parámetros, retorno, valores por defecto, *args).  
+- **Archivo:** `funciones.py`  
+- **Commit:** `feat: agregar ejemplos básicos de funciones en Python`
+
 
 ---
 
