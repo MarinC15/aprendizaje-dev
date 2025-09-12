@@ -24,6 +24,10 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - [ ] Editar este `README.md` y hacer el primer commit.
 - [ ] Subir cambios (`push`) a GitHub.
 
+### 2025-09-11
+- **Acción:** Crear ejercicios básicos de Python con variables, condicionales y bucles.  
+- **Archivos:** `variables.py`, `condicionales.py`, `bucles.py`  
+- **Commit:** `feat: agregar ejercicios básicos de variables, condicionales y bucles`
 
 
 ---
