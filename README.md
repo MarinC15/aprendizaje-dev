@@ -44,6 +44,10 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - **Archivo:** `practica_funciones_2.py`  
 - **Commit:** `feat: agregar segunda práctica de funciones en Python`
 
+### 2025-09-14
+- **Acción:** Introducción a funciones anónimas (lambda). Ejemplos de uso básico.  
+- **Archivo:** `lambda_funciones.py`  
+- **Commit:** `feat: agregar ejemplos de funciones lambda en Python`
 
 ---
 
