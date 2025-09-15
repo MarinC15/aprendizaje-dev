@@ -34,6 +34,12 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - **Archivo:** `funciones.py`  
 - **Commit:** `feat: agregar ejemplos básicos de funciones en Python`
 
+### 2025-09-14
+- **Acción:** Resolver práctica de funciones básicas (área rectángulo, número par/impar, conversión de temperatura).  
+- **Archivo:** `practica_funciones.py`  
+- **Commit:** `feat: agregar práctica inicial de funciones en Python`
+
+
 
 ---
 
