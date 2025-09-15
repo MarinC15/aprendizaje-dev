@@ -24,40 +24,32 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - [x] Editar este `README.md` y hacer el primer commit.
 - [x] Subir cambios (`push`) a GitHub.
 
-### 2025-09-11
-- **Acción:** Crear ejercicios básicos de Python con variables, condicionales y bucles.  
-- **Archivos:** `variables.py`, `condicionales.py`, `bucles.py`  
-- **Commit:** `feat: agregar ejercicios básicos de variables, condicionales y bucles`
+# 🗓️ Agenda de Avance - Semana 1
 
-### 2025-09-12
-- **Acción:** Implementar ejemplos de funciones en Python (parámetros, retorno, valores por defecto, *args).  
-- **Archivo:** `funciones.py`  
-- **Commit:** `feat: agregar ejemplos básicos de funciones en Python`
+✅ **Día 1 (9 sep 2025):**  
+- Instalación de Python  
+- Creación de entorno virtual  
+- Configuración inicial de repositorio en GitHub  
 
-### 2025-09-14
-- **Acción:** Resolver práctica de funciones básicas (área rectángulo, número par/impar, conversión de temperatura).  
-- **Archivo:** `practica_funciones.py`  
-- **Commit:** `feat: agregar práctica inicial de funciones en Python`
+✅ **Día 2 (10 sep 2025):**  
+- Variables y tipos de datos en Python  
+- Primeros ejemplos prácticos  
 
-- **Acción:** Resolver segunda práctica de funciones (factorial, palíndromo, promedio de lista).  
-- **Archivo:** `practica_funciones_2.py`  
-- **Commit:** `feat: agregar segunda práctica de funciones en Python`
+✅ **Día 3 (11 sep 2025):**  
+- Funciones en Python  
+- Ejercicios prácticos con funciones  
 
-- **Acción:** Introducción a funciones anónimas (lambda). Ejemplos de uso básico.  
-- **Archivo:** `lambda_funciones.py`  
-- **Commit:** `feat: agregar ejemplos de funciones lambda en Python`
+✅ **Día 4 (12 sep 2025):**  
+- Condicionales (`if`, `else`, `elif`)  
+- Ejercicios prácticos  
 
-- **Acción:** Aprender funciones de orden superior: map, filter y reduce.  
-- **Archivo:** `funciones_orden_superior.py`  
-- **Commit:** `feat: agregar ejemplos de map, filter y reduce en Python`
+✅ **Día 5 (15 sep 2025):**  
+- **Reto integrador Semana 1:**  
+  - Programa que pide nombre y nota de un estudiante  
+  - Evalúa con funciones si aprueba o reprueba  
+  - Incluye validación de rango de notas (0 a 5)  
+  - Archivo: `reto_semana1.py` (**versión mejorada con buenas prácticas**)  
 
-- **Acción:** Aprender estructuras de datos en Python (listas, tuplas, diccionarios, conjuntos).  
-- **Archivo:** `estructuras_datos.py`  
-- **Commit:** `feat: agregar ejemplos de estructuras de datos en Python`
-
-- **Acción:** Resolver práctica de estructuras de datos (listas, tuplas, diccionarios, conjuntos).  
-- **Archivo:** `practica_estructuras.py`  
-- **Commit:** `feat: agregar práctica de estructuras de datos en Python`
 
 ---
 
