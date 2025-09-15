@@ -55,6 +55,10 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - **Archivo:** `estructuras_datos.py`  
 - **Commit:** `feat: agregar ejemplos de estructuras de datos en Python`
 
+- **Acción:** Resolver práctica de estructuras de datos (listas, tuplas, diccionarios, conjuntos).  
+- **Archivo:** `practica_estructuras.py`  
+- **Commit:** `feat: agregar práctica de estructuras de datos en Python`
+
 ---
 
 ## 🛠️ Tecnologías a usar
