@@ -49,6 +49,11 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - **Archivo:** `lambda_funciones.py`  
 - **Commit:** `feat: agregar ejemplos de funciones lambda en Python`
 
+### 2025-09-14
+- **Acción:** Aprender funciones de orden superior: map, filter y reduce.  
+- **Archivo:** `funciones_orden_superior.py`  
+- **Commit:** `feat: agregar ejemplos de map, filter y reduce en Python`
+
 ---
 
 ## 🛠️ Tecnologías a usar
