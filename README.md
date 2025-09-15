@@ -20,9 +20,9 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 ## ✅ Checklist Semana 1
 - [x] Crear repositorio en GitHub.
 - [x] Configurar `.gitignore` para Python.
-- [ ] Clonar el repositorio en mi computador.
-- [ ] Editar este `README.md` y hacer el primer commit.
-- [ ] Subir cambios (`push`) a GitHub.
+- [x] Clonar el repositorio en mi computador.
+- [x] Editar este `README.md` y hacer el primer commit.
+- [x] Subir cambios (`push`) a GitHub.
 
 ### 2025-09-11
 - **Acción:** Crear ejercicios básicos de Python con variables, condicionales y bucles.  
@@ -39,6 +39,10 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - **Archivo:** `practica_funciones.py`  
 - **Commit:** `feat: agregar práctica inicial de funciones en Python`
 
+### 2025-09-14
+- **Acción:** Resolver segunda práctica de funciones (factorial, palíndromo, promedio de lista).  
+- **Archivo:** `practica_funciones_2.py`  
+- **Commit:** `feat: agregar segunda práctica de funciones en Python`
 
 
 ---
