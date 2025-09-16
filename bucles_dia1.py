@@ -70,3 +70,4 @@ while not adivinado:
         print("🎉 ¡Correcto! Adivinaste el número.")
     else:
         print("❌ Incorrecto, intenta de nuevo.")
+

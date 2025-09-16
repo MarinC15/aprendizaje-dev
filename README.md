@@ -24,31 +24,36 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 - [x] Editar este `README.md` y hacer el primer commit.
 - [x] Subir cambios (`push`) a GitHub.
 
-# 🗓️ Agenda de Avance - Semana 1
+## 📅 Agenda de Aprendizaje
 
-✅ **Día 1 (9 sep 2025):**  
-- Instalación de Python  
-- Creación de entorno virtual  
-- Configuración inicial de repositorio en GitHub  
+### ✅ Semana 1 (8 al 14 de septiembre de 2025)
+**Fundamentos de Python**
+- Introducción, instalación y configuración de entorno virtual.
+- Primeros programas en Python.
+- Variables y tipos de datos.
+- Operadores aritméticos y lógicos.
+- Funciones y condicionales.
+- **Reto integrador:** Programa para evaluar la aprobación de un estudiante según su nota final.
 
-✅ **Día 2 (10 sep 2025):**  
-- Variables y tipos de datos en Python  
-- Primeros ejemplos prácticos  
+📂 Archivo principal: `semana1.py`
 
-✅ **Día 3 (11 sep 2025):**  
-- Funciones en Python  
-- Ejercicios prácticos con funciones  
+---
 
-✅ **Día 4 (12 sep 2025):**  
-- Condicionales (`if`, `else`, `elif`)  
-- Ejercicios prácticos  
+### 🚀 Semana 2 (15 al 21 de septiembre de 2025)
+**Estructuras de control: bucles (for, while)**
 
-✅ **Día 5 (15 sep 2025):**  
-- **Reto integrador Semana 1:**  
-  - Programa que pide nombre y nota de un estudiante  
-  - Evalúa con funciones si aprueba o reprueba  
-  - Incluye validación de rango de notas (0 a 5)  
-  - Archivo: `reto_semana1.py` (**versión mejorada con buenas prácticas**)  
+#### Día 1 (15 de septiembre)
+- Ejemplo de bucle `for` con `range()`.
+- Ejemplo de bucle `while`.
+- Retos prácticos:
+  1. Tabla de multiplicar con `for`.
+  2. Suma de números pares con `while`.
+  3. Contador de números en un rango.
+  4. Juego "Adivina el número" con `while` y `random`.
+- Ajuste del código en **funciones**.
+- Creación de un **menú interactivo** para seleccionar retos.
+
+📂 Archivo principal: `semana2_dia1.py`
 
 
 ---
