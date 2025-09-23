@@ -55,7 +55,15 @@ Soy estudiante de 6° semestre de tecnología en desarrollo de software y este p
 
 📂 Archivo principal: `semana2_dia1.py`
 
+Al finalizar la semana 2, el programa cuenta con las siguientes características:
 
+- 📌 Permite **ingresar notas** desde consola.
+- 🕒 Cada nota se guarda con **sello de tiempo automático**.
+- 💾 Las notas se **almacenan en un archivo de texto (`agenda.txt`)**.
+- ➕ Nuevas notas se **agregan siempre al final** del archivo, sin borrar las anteriores.
+- ✨ Código organizado con funciones:
+  - `guardar_resultado(texto)`: guarda la nota en el archivo.
+  - `mostrar_y_guardar(texto)`: imprime en consola y guarda la nota en el archivo.
 ---
 
 ## 🛠️ Tecnologías a usar
