@@ -1,12 +1,15 @@
+from utils import guardado
+from utils.guardado import limpiar_resultados, mostrar_resultados_guardados, mostrar_y_guardar  
+from utils.validaciones import pedir_numero
+import random
+from datetime import datetime
+
 #!/usr/bin/env python3
 """
 Archivo: bucles_anidados.py
 Descripción: Colección de retos y ejemplos sobre bucles y bucles anidados.
 Estructura: funciones de retos + utilidades (índice/menú) + main()
 """
-
-import random
-from datetime import datetime
 
 # --------------------------
 # Helpers / Utilidades
@@ -34,44 +37,7 @@ def pedir_entero_positivo(prompt, default=None):
 # -------------------------------
 # Funciones de guardado
 # -------------------------------
-def guardar_resultado(texto, nombre_reto="Reto sin nombre", nombre_archivo="resultados.txt"):
-    """Guarda resultados con encabezado, fecha/hora y separador."""
-    with open(nombre_archivo, "a", encoding="utf-8") as f:
-        f.write(f"\n=== {nombre_reto} ===\n")
-        f.write(f"🕒 Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
-        f.write(texto + "\n")
-        f.write("-" * 30 + "\n")
 
-
-def mostrar_y_guardar(texto, nombre_reto):
-    """Muestra en pantalla y pregunta si guardar en archivo."""
-    print(texto)
-    opcion = input("¿Deseas guardar este resultado en el archivo? (s/n): ").strip().lower()
-    if opcion == "s":
-        guardar_resultado(texto, nombre_reto)
-        print("✅ Resultado guardado en resultados.txt.")
-
-def mostrar_resultados_guardados(nombre_archivo="resultados.txt"):
-    """Muestra el contenido de resultados.txt si existe."""
-    try:
-        with open(nombre_archivo, "r", encoding="utf-8") as f:
-            contenido = f.read()
-        if contenido.strip() == "":
-            print("\n📂 El archivo existe pero está vacío.")
-        else:
-            print("\n=== RESULTADOS GUARDADOS ===")
-            print(contenido)
-    except FileNotFoundError:
-        print("\n⚠️ No hay resultados guardados todavía.")
-        
-def limpiar_resultados(nombre_archivo="resultados.txt"):
-    """Limpia todo el contenido del archivo de resultados."""
-    from datetime import datetime
-    with open(nombre_archivo, "w", encoding="utf-8") as f:
-        f.write(f"=== Archivo limpiado ===\n")
-        f.write(f"🕒 Fecha: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write("-" * 30 + "\n")
-    print(f"✅ El archivo '{nombre_archivo}' ha sido limpiado.")
 
 # --------------------------
 # 1. FUNCIONES DE RETOS
@@ -338,7 +304,10 @@ def main():
     """Control principal del programa: bucle de menú."""
     while True:
         mostrar_menu()
-        opcion = input("\nElige una opción: ").strip().lower()
+        
+        opcion = input("Selecciona una opción: ")
+
+        
 
         if opcion == "1":
             ejemplo_cuadricula()
@@ -370,6 +339,10 @@ def main():
             mostrar_resultados_guardados()
         elif opcion == "l":
             limpiar_resultados()
+        elif opcion == "13":
+            print("\n🔹 Validación avanzada de número 🔹")
+            numero = pedir_numero("Ingrese un número entero o decimal: ", tipo=float)
+            mostrar_y_guardar(f"Número validado correctamente: {numero}")
         elif opcion == "0":
             print("¡Hasta luego! 👋")
             break

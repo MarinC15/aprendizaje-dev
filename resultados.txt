@@ -1,81 +1,11 @@
-Reto 4: Pirámide centrada (altura 7)
-      *
-     * *
-    * * *
-   * * * *
-  * * * * *
- * * * * * *
-* * * * * * *
-
-Reto 1: Cuadrícula 3x3
-(1,1)  (1,2)  (1,3)  
-(2,1)  (2,2)  (2,3)  
-(3,1)  (3,2)  (3,3)  
-
-Reto 5: Rombo de asteriscos (mitad 7)
-      *
-     * *
-    * * *
-   * * * *
-  * * * * *
- * * * * * *
-* * * * * * *
- * * * * * *
-  * * * * *
-   * * * *
-    * * *
-     * *
-      *
-
-Reto 9: Pirámide numérica centrada (filas 7)
-      1
-     121
-    12321
-   1234321
-  123454321
- 12345654321
-1234567654321
-
-Reto 1: Cuadrícula 3x3
-(1,1)  (1,2)  (1,3)  
-(2,1)  (2,2)  (2,3)  
-(3,1)  (3,2)  (3,3)  
-
-
-=== Reto 3: Triángulo de asteriscos ===
-🕒 Fecha: 2025-09-23 09:00:57
-
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
-* * * * * * 
-* * * * * * * 
-
-------------------------------
 
 === Reto 9: Pirámide numérica centrada ===
-🕒 Fecha: 2025-09-23 09:04:48
+🕒 Fecha: 2025-10-13 01:05:58
 
     1
    121
   12321
  1234321
 123454321
-
-------------------------------
-
-=== Reto 11: Piedra, papel o tijera ===
-🕒 Fecha: 2025-09-23 09:06:21
-
-
-=== JUEGO: PIEDRA, PAPEL O TIJERA ===
-Tú: papel | Computadora: papel
-🤝 Empate.
-Tú: tijera | Computadora: piedra
-😢 Perdiste.
-Tú: papel | Computadora: piedra
-🎉 ¡Ganaste!
 
 ------------------------------
